@@ -1,0 +1,1 @@
+This project will create a slideshow of pictures as wallpaper
